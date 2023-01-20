@@ -549,3 +549,10 @@ footer > a {
     color: #fadd79;
     
 }
+
+.section__subtitle--skills {
+
+    box-shadow: var(--bs);
+    
+}
+
